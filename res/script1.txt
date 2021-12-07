@@ -1,0 +1,15 @@
+create ppm Koala.ppm
+addCopy
+remove 0
+make invisible 0
+make visible 0
+createCheckerboard 20 20
+addCopy
+addCheckerboard 20 20
+sepia 1
+blur 1
+sharpen 1
+greyscale 1
+export jpg this89.jpg
+exportAll png somename
+load png somename

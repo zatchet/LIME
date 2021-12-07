@@ -1,0 +1,10 @@
+create ppm Koala.jpg
+blur 0
+addCopy
+create jpg Koala.jpg
+blur 4
+addCheckerboard 30 30
+remove 0
+export blah koala
+export png koala.blah
+export png foo
