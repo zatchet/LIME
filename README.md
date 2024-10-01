@@ -1,3 +1,5 @@
+Please see the design presentation: [Design Presentation](presentation.pdf)
+
 How to use: \
 After running the main method, there are three options for how to run the program that are launched by entering a simple command: 
 
